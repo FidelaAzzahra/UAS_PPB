@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Baca_Sqlite">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:background="@drawable/frame5"
+        android:text="KARTU HASIL STUDI"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.Compat.Notification.Title"
+        android:textColor="@color/black"
+        android:textSize="25sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="69dp"
+        android:layout_marginRight="25dp"
+        android:text="NIM           :   A11.2021.13417"
+        android:textAppearance="@style/TextAppearance.Compat.Notification.Title"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginRight="25dp"
+        android:text="Nama        :   Fidela Azzahra"
+        android:textAppearance="@style/TextAppearance.Compat.Notification.Title"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginTop="132dp"
+        android:layout_marginRight="25dp"
+        android:text="Jurusan    :   Teknik Informatika - S1"
+        android:textAppearance="@style/TextAppearance.Compat.Notification.Title"
+        android:textColor="@color/black"
+        android:textSize="16sp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="190dp"
+        android:layout_marginRight="20dp"
+        android:background="@color/merah"
+        android:text="Kode        Matkul        SKS       Angka     Huruf    Pre"
+        android:textAlignment="center"
+        android:textAppearance="@style/TextAppearance.Compat.Notification.Title"
+        android:textColor="@color/white"
+        android:textSize="15sp" />
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerviewsks"
+        android:layout_width="match_parent"
+        android:layout_height="440dp"
+        android:layout_marginTop="211dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/recyclerviewsks"
+        android:background="@drawable/frame08"
+        android:orientation="vertical"
+        android:padding="25dp">
+
+        <TextView
+            android:id="@+id/tv_ipk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="IPK = "
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_totsks"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="SKS = "
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/tv_jmlmatkul"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:text="Jumlah Mata Kuliah = "
+            android:textColor="@color/black"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+
+</RelativeLayout>

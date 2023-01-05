@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/drawable/frame007.xml" value="0.1565" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/drawable/frame01.xml" value="0.165" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/drawable/frame02.xml" value="0.165" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/drawable/frame03.xml" value="0.165" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/drawable/frame04.xml" value="0.165" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/drawable/frame08.xml" value="0.1565" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/drawable/frame5.xml" value="0.1685" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/drawable/frame6.xml" value="0.1685" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/drawable/ic_baseline_input_24.xml" value="0.165" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/layout/activity_baca_sqlite.xml" value="0.264" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/layout/activity_dashboardmenu.xml" value="0.1" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/layout/activity_entry_data_mahasiswa.xml" value="0.264" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/layout/activity_fomrat_tampilan_mahasiswa.xml" value="0.25" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/layout/activity_update_data_mahasiswa.xml" value="0.264" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/layout/entry_data.xml" value="0.25" />
+        <entry key="..\:/Materi kuliah/Semester 3/PROUASA1113417/app/src/main/res/layout/format_tampilan_mahasiswa.xml" value="0.24895833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
