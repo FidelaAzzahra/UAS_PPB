@@ -27,6 +27,8 @@ UAS Pemrograman Perangkat Bergerak
 ![Screenshot (346)](https://user-images.githubusercontent.com/114632917/210794296-8ed57929-e2bf-47ba-bed6-ce4e02a34b67.png)
 
 - Untuk melakukan pengecekan apakah data yang telah di input tersimpan atau tidak (kondisi apabila data di device emulator tidak tampil) dapat menggunakan SQL online IDE 
+- Device File Explorer => data => data => <nama_project> => databases => <nama_databases> => save
+- Buka https://sqliteonline.com => File => Open DB => SELECT * FROM <nama_table> => run
 
 ![Screenshot (342)](https://user-images.githubusercontent.com/114632917/210795056-8747ea08-c06e-4692-b64f-640ee5676fb2.png)
 
