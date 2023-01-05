@@ -1,8 +1,6 @@
 # UAS_PPB
 UAS Pemrograman Perangkat Bergerak
 
-- Minus : Fitur untuk menghitung IPK, SKS, dan jumlah mata kuliah belum dibuat
-
 - Berikut merupakan beberapa fitur aplikasi KHS Mahasiswa 
 - Fitur 1 : Menu dashboard. Button yang bisa di klik hanya button entry data dan button tampil. Sisanya hanya berupa hiasan saja
 - Button entry akan mengarahkan user ke activity entry data mahasiswa
@@ -17,6 +15,7 @@ UAS Pemrograman Perangkat Bergerak
 ![Screenshot (344)](https://user-images.githubusercontent.com/114632917/210791491-7dada0c7-c7a3-4572-b8bf-bc3800555ca3.png)
 
 - Fitur 3 : Menu tampilan data KHS. User dapat melihat data dari KHS yang telah user input
+- Minus : Fitur untuk menghitung IPK, SKS, dan jumlah mata kuliah belum dibuat
 - User dapat menekan tiap baris pada matkul tertentu untuk melakukan update data
 - Untuk update data user akan di arahkan ke activity update data mahasiswa
 
