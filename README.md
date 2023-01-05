@@ -8,15 +8,11 @@ UAS Pemrograman Perangkat Bergerak
 
 ![Screenshot (343)](https://user-images.githubusercontent.com/114632917/210790704-a8039218-9ac6-4f9d-92d4-e30cb3333b49.png)
 
-
-
 - Fitur 2 : Entry Data KHS. User dapat input data berupa data KHS
 - User dapat menekan button save untuk save data KHS yang telah di input
 - Untuk kembali ke menu dashboard user dapat menekan button cancel
 
 ![Screenshot (344)](https://user-images.githubusercontent.com/114632917/210791491-7dada0c7-c7a3-4572-b8bf-bc3800555ca3.png)
-
-
 
 - Fitur 3 : Menu tampilan data KHS. User dapat melihat data dari KHS yang telah user input
 - User dapat menekan tiap baris pada matkul tertentu untuk melakukan update data
