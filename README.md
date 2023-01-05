@@ -8,7 +8,7 @@ UAS Pemrograman Perangkat Bergerak
 
 ![Screenshot (343)](https://user-images.githubusercontent.com/114632917/210790704-a8039218-9ac6-4f9d-92d4-e30cb3333b49.png)
 
-- Fitur 2 : Entry Data KHS. User dapat input data berupa data KHS
+- Fitur 2 : Entry data KHS. User dapat input data berupa data KHS
 - User dapat menekan button save untuk save data KHS yang telah di input
 - Untuk kembali ke menu dashboard user dapat menekan button cancel
 
@@ -19,3 +19,10 @@ UAS Pemrograman Perangkat Bergerak
 - Untuk update data user akan di arahkan ke activity update data mahasiswa
 
 ![Screenshot (345)](https://user-images.githubusercontent.com/114632917/210793238-6467a070-c926-4c42-b17a-9325d1b2df59.png)
+
+- Fitur 4 : Update data KHS. User dapat melakukan perbaharuan data KHS dengan cara menekan baris pada matkul tertentu
+- Button update untuk mengupdate data KHS
+- Button delete untuk melakukan penghapusan data KHS
+
+![Screenshot (346)](https://user-images.githubusercontent.com/114632917/210794296-8ed57929-e2bf-47ba-bed6-ce4e02a34b67.png)
+
