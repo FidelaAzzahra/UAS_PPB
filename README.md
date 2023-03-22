@@ -1,5 +1,6 @@
-# UAS_PPB
-UAS Pemrograman Perangkat Bergerak
+<h3>UAS PPB</h3>
+
+<b>UAS Pemrograman Perangkat Bergerak</b>
 
 - Berikut merupakan beberapa fitur aplikasi KHS Mahasiswa 
 - Fitur 1 : Menu dashboard. Button yang bisa di klik hanya button entry data dan button tampil. Sisanya hanya berupa hiasan saja
